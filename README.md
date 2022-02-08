@@ -1,2 +1,2 @@
 # resume
-Content of the resume are in the index.html file.
+Abbridged version of Ange Liu's resume.
